@@ -1,0 +1,56 @@
+@font-face {
+	font-family: "HelveticaRegular";
+	src: url("../fonts/HelveticaRegular/HelveticaNeue.eot");
+	src: url("../fonts/HelveticaRegular/HelveticaNeue.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/HelveticaRegular/HelveticaNeue.woff") format("woff"),
+	url("../fonts/HelveticaRegular/HelveticaNeue.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "HelveticaBold";
+	src: url("../fonts/HelveticaBold/HelveticaBold.eot");
+	src: url("../fonts/HelveticaBold/HelveticaBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/HelveticaBold/HelveticaBold.woff") format("woff"),
+	url("../fonts/HelveticaBold/HelveticaBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "HelveticaLight";
+	src: url("../fonts/HelveticaLight/HelveticaLight.eot");
+	src: url("../fonts/HelveticaLight/HelveticaLight.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/HelveticaLight/HelveticaLight.woff") format("woff"),
+	url("../fonts/HelveticaLight/HelveticaLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "HelveticaMedium";
+	src: url("../fonts/HelveticaMedium/HelveticaMedium.eot");
+	src: url("../fonts/HelveticaMedium/HelveticaMedium.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/HelveticaMedium/HelveticaMedium.woff") format("woff"),
+	url("../fonts/HelveticaMedium/HelveticaMedium.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "HelveticaMediumItalic";
+	src: url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.eot");
+	src: url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.woff") format("woff"),
+	url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "BebasNeueBold";
+	src: url("../fonts/BebasNeueBold/BebasNeueBold.eot");
+	src: url("../fonts/BebasNeueBold/BebasNeueBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/BebasNeueBold/BebasNeueBold.woff") format("woff"),
+	url("../fonts/BebasNeueBold/BebasNeueBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal; 
+} 
